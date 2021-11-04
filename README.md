@@ -35,7 +35,7 @@
 ### Flowchart program
 #### Berikut flowchar untuk program menampilkan bilangan tersbesar dari n buah data yang diinputkan
 
-![Gambar 4](screenshoot/flowchart_latihan2.png)
+![Gambar 4](screenshoot/flowchart_Latihan2.png)
 
 ### penjelasan alur program
 1. print("Menampilkan bilangan terbesar dari n buah data yang diinput") - adalah perintah untuk menampilkan judul program
