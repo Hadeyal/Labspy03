@@ -22,11 +22,11 @@
 
 #### berikut gambaran programnya
 
-![Gambar 2](screenshot/latihan1.PNG)
+![Gambar 2](screenshot/latihan1.png)
 
 #### berikut hasil dari program saat dijalankan
 
-![Gambar 3](screenshot/latihan1_1.PNG)
+![Gambar 3](screenshot/latihan1_1.png)
 
 
 # Latihan 2
@@ -59,11 +59,11 @@
 
 #### berikut gambaran programnya
 
-![Gambar 5](screenshot/latihan2.PNG)
+![Gambar 5](screenshot/latihan2.png)
 
 #### berikut hasil program saat dijalankan
 
-![Gambar 6](screenshot/latihan2_2.PNG)
+![Gambar 6](screenshot/latihan2_2.png)
 
 
 # Program 1
@@ -108,8 +108,8 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 #### berikut gambaran programnya
 
-![Gambar 8](screenshot/program1.PNG)
+![Gambar 8](screenshot/program1.png)
 
 #### berikut hasil dari program setelah dijalankan
 
-![Gambar 9](screenshot/program1_1.PNG)
+![Gambar 9](screenshot/program1_1.png)
