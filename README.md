@@ -1,5 +1,4 @@
 # Labspy03
-# Labspy03
 # Latihan 1 
 
 ## Program Untuk Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
@@ -7,7 +6,7 @@
 ### Flowchart Program
 #### berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
 
-![Gambar 1](screenshot/flowchart_latihan1.png)
+![Gambar 1](screenshoot/flowchart_latihan1.png)
 
 ### Penjelasan alur program
 1. print("Tampilkan n bilangan acak yang lebih kecil dari 0.5") - adalah perintah untuk menampilkan judulnya.
@@ -22,11 +21,11 @@
 
 #### berikut gambaran programnya
 
-![Gambar 2](screenshot/latihan1.png)
+![Gambar 2](screenshoot/latihan1.png)
 
 #### berikut hasil dari program saat dijalankan
 
-![Gambar 3](screenshot/latihan1_1.png)
+![Gambar 3](screenshoot/latihan1_1.png)
 
 
 # Latihan 2
@@ -36,7 +35,7 @@
 ### Flowchart program
 #### Berikut flowchar untuk program menampilkan bilangan tersbesar dari n buah data yang diinputkan
 
-![Gambar 4](screenshot/flowchart_latihan2.png)
+![Gambar 4](screenshoot/flowchart_latihan2.png)
 
 ### penjelasan alur program
 1. print("Menampilkan bilangan terbesar dari n buah data yang diinput") - adalah perintah untuk menampilkan judul program
@@ -59,11 +58,11 @@
 
 #### berikut gambaran programnya
 
-![Gambar 5](screenshot/latihan2.png)
+![Gambar 5](screenshoot/latihan2.png)
 
 #### berikut hasil program saat dijalankan
 
-![Gambar 6](screenshot/latihan2_2.png)
+![Gambar 6](screenshoot/latihan2_2.png)
 
 
 # Program 1
@@ -72,7 +71,7 @@
 ### Flowchart program
 #### berikut flowchart dari program menghitung laba investasi
 
-![Gambar 7](screenshot/flowchart_program1.png)
+![Gambar 7](screenshoot/flowchart_program1.png)
 
 ### Penjelasan alur program
 
@@ -108,8 +107,8 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 #### berikut gambaran programnya
 
-![Gambar 8](screenshot/program1.png)
+![Gambar 8](screenshoot/program1.png)
 
 #### berikut hasil dari program setelah dijalankan
 
-![Gambar 9](screenshot/program1_1.png)
+![Gambar 9](screenshoot/program1_1.png)
