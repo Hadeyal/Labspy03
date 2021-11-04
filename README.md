@@ -6,7 +6,7 @@
 ### Flowchart Program
 #### berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
 
-![Gambar 1](screenshoot/flowchart_latihan1.png)
+![Gambar 1](screenshoot/flowchart_Latihan1.png)
 
 ### Penjelasan alur program
 1. print("Tampilkan n bilangan acak yang lebih kecil dari 0.5") - adalah perintah untuk menampilkan judulnya.
@@ -111,4 +111,4 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 #### berikut hasil dari program setelah dijalankan
 
-![Gambar 9](screenshoot/program1_1.png)
+![Gambar 9](screenshoot/program1_2.png)
